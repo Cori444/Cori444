@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Corinne
+- 👀 I’m interested in Human Computer Interaction and Artificial Intelligence
+- 💞️ I’m looking to collaborate on AI open source projects
+- 📫 Contact me at corinneschillizzi@gmail.com
